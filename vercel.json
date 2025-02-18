@@ -3,7 +3,7 @@
     "routes": [
       {
         "src": "/",
-        "dest": "/indexs.html"
+        "dest": "/project 2.html"
       }
     ]
   }
